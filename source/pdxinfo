@@ -1,0 +1,6 @@
+name=AOC25
+author=chanderson
+description=Advent of Code 2025
+bundleID=com.chanderson.aoc25
+version=1.0.0
+buildNumber=1
